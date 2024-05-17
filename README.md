@@ -4,3 +4,4 @@
 ### Used gemini-pro-vision model to extract the invoice image.
 ### Streamlit for UI.
 ### Huggingface for deployment.
+### I've attached the link to my project. Visit and chat with your invoices.
